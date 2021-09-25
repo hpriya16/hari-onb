@@ -6,7 +6,7 @@ const app = express();
 app.get('/', (req, res) => {
 
 	// Sending the response
-	res.send('Welcome to Heroku!')
+	res.send('Welcome to Heroku support!')
 	
 	// Ending the response
 	res.end()
